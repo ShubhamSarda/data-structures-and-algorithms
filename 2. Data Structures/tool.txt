@@ -1,0 +1,5 @@
+1. https://visualgo.net/en
+
+2. https://www.cs.usfca.edu/~galles/visualization/
+RedBlack Tree: https://www.cs.usfca.edu/~galles/visualization/RedBlack.html
+Trie: https://www.cs.usfca.edu/~galles/visualization/Trie.html
