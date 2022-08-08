@@ -9,13 +9,13 @@
 
 Throughout the course, we will explore the most important Data Structures and Algorithms topics step-by-step:
 
-1. Essential Concepts
+**1. Essential Concepts**
 - Big O Notation
 - Memory
 - Logarithms
 - Recursion
 
-2. Data structures:
+**2. Data structures:**
 - Arrays
 - Linked Lists (Singly Linked List, Doubly Linked List, Circular Linked List)
 - Stacks- Queues- Hash Tables
@@ -24,14 +24,13 @@ Throughout the course, we will explore the most important Data Structures and Al
 - Tries
 - Graphs
 
-3. Algorithms:
+**3. Algorithms:**
 - Elementary Sorting Algorithms (Bubble Sort, Insertion Sort, Selection Sort)
 - Advance Searching Algorithms (Quick Sort, Merge Sort)
-- Tree TraversalBreadth
-- First Search: Level Order Traversal, Depth First Search: PreOrder, InOrder, PostOrder
-- Graph Traversal(Breadth-First Search, Depth First Search)
+- Tree Traversal (Breadth First Search: Level Order Traversal and Depth First Search: PreOrder, InOrder, PostOrder)
+- Graph Traversal (Breadth-First Search, Depth First Search)
 
-4. Interview Questions
+**4. Interview Questions**
 - Two Sum
 - MinMax Stack
 - Design Linked List
